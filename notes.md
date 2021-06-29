@@ -18,6 +18,11 @@
 
 
 
+<h15>404</h15>
+    <p>Looks like this page is missing. Don't worry though, our best man is on the case.</p>
+    <p>Meanwhile, why don't you try again by going</p>
+    <p> BACK HOME </p>
+
 
 
 
